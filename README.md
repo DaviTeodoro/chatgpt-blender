@@ -1,4 +1,5 @@
-# ChatGPT Blender Addon
+disclaimer: it doesn't work, this was a late night mad experiment about using chat gpt to write me a blender addon. 
+# ChatGPT Blender Addon 
 
 This addon allows you to communicate with OpenAI's ChatGPT model to create Geometry Nodes in Blender based on user input.
 
